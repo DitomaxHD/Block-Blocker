@@ -1,0 +1,4 @@
+name: Block-Blocker
+version: '${project.version}'
+main: plugin.blockblocker.Block_Blocker
+api-version: '1.19'
